@@ -8,6 +8,7 @@ body {
     font-family: 'Open Sans', serif;
     padding-top: 54px;
     color: #868e96
+    background-color: #eaeaea!important;
 }
 @media (min-width: 992px) {
     body {
@@ -24,7 +25,7 @@ h6 {
     font-family: 'Saira Extra Condensed', serif;
     font-weight: 700;
     text-transform: uppercase;
-    color: #343a40
+    color: #000
 }
 h1 {
     font-size: 6rem;
@@ -43,7 +44,7 @@ h2 {
     color: #495057
 }
 .list-social-icons a:hover {
-    color: #bd5d38
+    color: #2A628F
 }
 .list-social-icons a .fa-lg {
     font-size: 1.75rem
@@ -52,7 +53,7 @@ h2 {
     font-size: 3rem
 }
 .list-icons .list-inline-item i:hover {
-    color: #bd5d38
+    color: #2A628F
 }
 #sideNav .navbar-nav .nav-item .nav-link {
     font-weight: 600;
@@ -120,16 +121,16 @@ section.resume-section .resume-item .resume-date {
     }
 }
 .bg-primary {
-    background-color: #bd5d38!important
+    background-color: #2A628F!important
 }
 .text-primary {
-    color: #bd5d38!important
+    color: #2A628F!important
 }
 a {
-    color: #bd5d38
+    color: #2A628F
 }
 a:active,
 a:focus,
 a:hover {
-    color: #824027
+    color: #2A628F
 }
